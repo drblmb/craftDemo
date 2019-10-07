@@ -5,6 +5,8 @@ import { postJson } from './lib/remoteAPI';
 
 jest.mock('./lib/remoteAPI');
 
+console.log = () => {};
+
 describe('formSettings API', () => {
   beforeEach(() => {
     postJson.mockReset();

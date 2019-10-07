@@ -1,4 +1,4 @@
-import formSettingsContainer from 'screens/formSettings/FormSettingsContainer.test';
+import formSettingsContainer from 'screens/formSettings/FormSettingsContainer';
 
 export default [
   {

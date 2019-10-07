@@ -7,8 +7,6 @@ import {
 } from './fetchUtils';
 import { FetchError, ClientError, ServerError, ServerValidationError } from '../errors';
 
-jest.mock('file-saver');
-
 describe('Fetch Utils', () => {
   let jsonMock;
   let blobMock;

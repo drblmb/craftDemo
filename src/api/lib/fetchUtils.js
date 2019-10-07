@@ -10,9 +10,6 @@ const jsonFetch = async (url, method, dataOrQuery) => {
   let response;
   const headers = {};
 
-  console.log(remoteURL + url);
-  console.log(method);
-
   if (method !== httpMethods.get) {
     headers.Accept = 'application/json, text/plain, */*';
     headers['Content-Type'] = 'application/json';
