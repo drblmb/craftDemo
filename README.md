@@ -1,6 +1,6 @@
 # craftDemo
 
-## I am using Node 10.12.0, and npm 12.0, and npm 6.11.3 
+## I am using Node 10.12.0, and npm 6.11.3 
 ```
 npm install
 npm start
