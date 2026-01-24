@@ -5,7 +5,7 @@
   "dependencies": {
     "history": "^4.7.2",
     "js-cookie": "^2.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "minilog": "^3.1.0",
     "moment": "^2.20.1",
     "polished": "^1.9.3",
